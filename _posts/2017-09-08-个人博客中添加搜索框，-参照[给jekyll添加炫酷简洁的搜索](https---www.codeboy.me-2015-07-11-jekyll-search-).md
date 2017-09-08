@@ -1,4 +1,8 @@
-个人博客中添加搜索框，参照[给jekyll添加炫酷简洁的搜索](https://www.codeboy.me/2015/07/11/jekyll-search/)
+### 博客的搭建与搜索框：
+
+### 一、关于博客的搭建，看这个[利用 GitHub Pages 快速搭建个人博客](http://www.jianshu.com/p/e68fba58f75c)
+
+### 二、个人博客中添加搜索框，参照[给jekyll添加炫酷简洁的搜索](https://www.codeboy.me/2015/07/11/jekyll-search/)
 
 1.点击[这个网页链接](https://github.com/18513763652/18513763652.github.io/blob/master/_includes/footer.html)
 

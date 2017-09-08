@@ -1,10 +1,10 @@
-## 个人博客中添加搜索框，参照[给jekyll添加炫酷简洁的搜索](https://www.codeboy.me/2015/07/11/jekyll-search/)
-### 1.点击[这个网页链接](https://github.com/18513763652/18513763652.github.io/blob/master/_includes/footer.html)
-###  2.复制这段代码
+# 个人博客中添加搜索框，参照[给jekyll添加炫酷简洁的搜索](https://www.codeboy.me/2015/07/11/jekyll-search/)
+## 1.点击[这个网页链接](https://github.com/18513763652/18513763652.github.io/blob/master/_includes/footer.html)
+##  2.复制这段代码
 									
 [代码在这里](https://github.com/18513763652/18513763652.github.io/blob/master/search/cb-footer-add.html)到_includes/footer.html代码文章底下
-### 3.把[search](https://github.com/18513763652/18513763652.github.io)这个插件放在博客文档目录中即可
-## 思路分析
-### 1.整体思想[静态博客如何实现站内搜索](https://blog.werner.wiki/static-blog-search/)
+## 3.把[search](https://github.com/18513763652/18513763652.github.io)这个插件放在博客文档目录中即可
+# 思路分析
+ 1.整体思想[静态博客如何实现站内搜索](https://blog.werner.wiki/static-blog-search/)
 2.google 搜索的添加1.[如何给GitHub Pages添加Google自定义搜索](http://yysfire.github.io/web/how-to-add-google-custom-search-to-github-pages.html)
 2.[在网站中插入Google站内搜索栏](https://tumutanzi.com/archives/12711)3.[打造自己的搜索引擎 Google自定义搜索设置!()](http://www.jianshu.com/p/3596a842f62e)

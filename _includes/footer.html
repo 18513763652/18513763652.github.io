@@ -1,5 +1,50 @@
 <!-- Footer -->
-<footer>
+<f  <div class="wrapper">
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-1">
+      <h3>站点信息</h3>
+      <ul class="contact-list">
+        <li>{{ site.title }}</li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col footer-col-2">
+      <h3>标签</h3>
+      <ul class="tags">
+        {% for tag in site.tags %}
+          <li>{{ tag  | first }}<span>{{ tag | last | size }}</span>
+          {% assign t =tag | first ) %}
+          <ul class="kids">
+            {% for post in site.tags[t] %}
+              <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="footer-col footer-col-3">
+      <h3>目录</h3>
+      <ul class="categories">
+        {% for ca in site.categories %}
+          <li>{{ ca | first }}<span>{{ ca | last | size }}</span>
+          {% assign category =ca | first ) %}
+          <ul class="kids">
+            {% for post in site.categories[category] %}
+              <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+          </li>
+        {% endfor %}
+      <ul>
+    </div>
+  </div>
+
+</div>ooter>
+
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -103,52 +148,8 @@
             </div>
         </div>
     </div>
-    
-    <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <h3>站点信息</h3>
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></li>
-        </ul>
-      </div>
 
-      <div class="footer-col footer-col-2">
-        <h3>标签</h3>
-        <ul class="tags">
-          {% for tag in site.tags %}
-            <li>{{ tag  | first }}<span>{{ tag | last | size }}</span>
-            {% assign t =tag | first ) %}
-            <ul class="kids">
-              {% for post in site.tags[t] %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-              {% endfor %}
-            </ul>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
 
-      <div class="footer-col footer-col-3">
-        <h3>目录</h3>
-        <ul class="categories">
-          {% for ca in site.categories %}
-            <li>{{ ca | first }}<span>{{ ca | last | size }}</span>
-            {% assign category =ca | first ) %}
-            <ul class="kids">
-              {% for post in site.categories[category] %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-              {% endfor %}
-            </ul>
-            </li>
-          {% endfor %}
-        <ul>
-      </div>
-    </div>
-
-  </div>
 </footer>
 
 <!-- jQuery -->
@@ -186,15 +187,15 @@
     }
 </script>
 
-<!-- 
-     Because of the native support for backtick-style fenced code blocks 
-     right within the Markdown is landed in Github Pages, 
-     From V1.6, There is no need for Highlight.js, 
+<!--
+     Because of the native support for backtick-style fenced code blocks
+     right within the Markdown is landed in Github Pages,
+     From V1.6, There is no need for Highlight.js,
      so Huxblog drops it officially.
 
-     - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0  
-     - https://help.github.com/articles/creating-and-highlighting-code-blocks/ 
-     - https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers   
+     - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
+     - https://help.github.com/articles/creating-and-highlighting-code-blocks/
+     - https://github.com/jneen/rouge/wiki/list-of-supported-languages-and-lexers
 -->
 <!--
     <script>
@@ -281,7 +282,7 @@
             l = $('<li class="'+n+'_nav"></li>').append(c);
             $(selector).append(l);
         });
-        return true;    
+        return true;
     }
 
     generateCatalog(".catalog-body");
@@ -330,4 +331,3 @@
 
 <script src="{{ "/search/js/bootstrap3-typeahead.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/search/js/cb-search.js" | prepend: site.baseurl }}"></script>
-

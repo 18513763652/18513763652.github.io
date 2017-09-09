@@ -1,4 +1,18 @@
+---
+layout:     post                    
+title:      markdown学习             
+date:       2017-09-08            
+author:     Glen                     
+header-img: img/post-bg-2015.jpg    
+catalog: true                       
+tags:                               
+    - 博客
+---
 
+作者：BYQiu
+链接：http://www.jianshu.com/p/e68fba58f75c
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 万能搜索
 
 [万能搜索anywhereanything](http://lackar.com/aa/)

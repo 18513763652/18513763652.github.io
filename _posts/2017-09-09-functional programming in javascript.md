@@ -1,4 +1,15 @@
- **functional programming in javascript**
+---
+layout:     post                    
+title:      functional programming in javascript
+date:       2017-09-09              
+author:     Glen                      
+header-img: img/post-bg-2015.jpg    
+catalog: true                       
+tags:                               
+    - 前端开发
+---
+
+**functional programming in javascript**
 
   *1.大概讲解视频*
 

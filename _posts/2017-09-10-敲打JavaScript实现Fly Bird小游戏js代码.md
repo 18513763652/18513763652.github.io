@@ -5,8 +5,9 @@ date:       2017-09-10
 author:     Glen                      
 header-img: img/post-bg-2015.jpg
 catalog: true 
-tags: 
-  - 代码研习
+tags:
+  - 前端开发
+  - 代码研习
 ---  
 
 敲FlyBird/js/baseObj.js

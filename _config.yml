@@ -18,7 +18,6 @@ sidebar-avatar: /img/glen.png      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-
 github_username:    18513763652
 facebook_username:  18513763652
 jianshu_username:   7dadd960a1d7
@@ -102,7 +101,7 @@ friends: [
     },{
         title: "领英",
         href: "http://www.linkedin.com/in/glenn-ou-576922ab/"
-    }
+    },
     {
         title: "zhihu·Glenn",
         href: "https://www.zhihu.com/people/ou-qin-yu/activities"

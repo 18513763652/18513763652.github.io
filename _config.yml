@@ -1,6 +1,6 @@
 # Site settings
 title: Glenn Blog
-SEOTitle: Glenn的博客 | Glen Blog
+SEOTitle: Glenn的博客 | Glenn Blog
 header-img: img/post-bg-coffee.jpeg
 email: 2738328919@qq.com
 description: "Every failure is leading towards success."
@@ -18,7 +18,7 @@ sidebar-avatar: /img/glen.png      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-zhihu_username:     18513763652
+zhihu_username:     people/ou-qin-yu
 github_username:    18513763652
 facebook_username:  18513763652
 jianshu_username:   7dadd960a1d7

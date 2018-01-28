@@ -7,7 +7,6 @@ header-img: img/post-bg-2015.jpg
 catalog: true 
 tags:
   - 前端开发
-  - 代码研习
 ---  
 
 敲FlyBird/js/baseObj.js

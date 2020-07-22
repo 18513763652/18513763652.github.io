@@ -25,6 +25,7 @@ tags:
 <br>https://help.soundcloud.com/hc/en-us/articles/115003565128-Embedding-a-track-or-playlist-on-WordPress
 
 ## 2. Video insert in the middle of the blog content; 
+
 1.Format:
 ```
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Youtube video key" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,6 +40,7 @@ Youtube video key is the last few digits of the Youtube video link address.
 <br>4. reference Link:
 <br>How to embed a Youtube Video in Markdown presentation
 <br>https://www.slideas.app/blog/how-to-embed-a-vimeo-or-youtube-video-in-markdown/
+
 ## 3. have certain picture and flow map to help the reader to comprehsion the content.
 Location right and left
 <img style="float: right;" src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100">
@@ -50,10 +52,12 @@ Location Center
 image
 http://xianbai.me/learn-md/article/syntax/images.html
 ## 4. add the refrence link at the end of the blog.
+
 ## 5. Other issue fix.
 The reason why  can not utilize the markdown previw is that you need to set chrome as default browser.
 <br>Change Chrome to the Default Web Browser in Mac OS X
 <br>https://osxdaily.com/2011/02/23/change-chrome-to-the-default-web-browser/ 
+
 ## 6.Put the content into Github blog repositories
 1. add the backgroud information into your file.
 ```

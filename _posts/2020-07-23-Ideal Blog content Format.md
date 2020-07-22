@@ -8,9 +8,9 @@ catalog: true
 tags:                              
     博客
 ---
-# Ideal Blog content Format 
+#Ideal Blog content Format 
 
-## 1. a BGM Music to accmopany you to finish the blog content reading;
+##1. a BGM Music to accmopany you to finish the blog content reading;
 
 
 <br>1.Code Format:
@@ -31,7 +31,7 @@ tags:
 <br>Embedding a track or playlist on WordPress
 https://help.soundcloud.com/hc/en-us/articles/115003565128-Embedding-a-track-or-playlist-on-WordPress
 
-## 2. Video insert in the middle of the blog content; 
+##2. Video insert in the middle of the blog content; 
 
 <br>1.Format:
 ```
@@ -49,7 +49,7 @@ Youtube video key is the last few digits of the Youtube video link address.
 <br>How to embed a Youtube Video in Markdown presentation
 <br>https://www.slideas.app/blog/how-to-embed-a-vimeo-or-youtube-video-in-markdown/
 
-## 3. have certain picture and flow map to help the reader to comprehsion the content.
+##3. have certain picture and flow map to help the reader to comprehsion the content.
 
 Location right and left
 <img style="float: right;" src="https://avatars2.githubusercontent.com/u/3265208?v=3&s=100">
@@ -63,14 +63,14 @@ Location Center
 
 image
 http://xianbai.me/learn-md/article/syntax/images.html
-## 4. add the refrence link at the end of the blog.
+##4. add the refrence link at the end of the blog.
 
-## 5. Other issue fix.
-The reason why you can not utilize the markdown previw is that you need to set chrome as default browser.
+##5. Other issue fix.
+The reason why  can not utilize the markdown previw is that you need to set chrome as default browser.
 <br>Change Chrome to the Default Web Browser in Mac OS X
 <br>https://osxdaily.com/2011/02/23/change-chrome-to-the-default-web-browser/ 
 
-## 6.Put the content into Github blog repositories
+##6.Put the content into Github blog repositories
 1. add the backgroud information into your file.
 ```
 ---
@@ -84,11 +84,17 @@ tags:
     博客
 ---
 ```
+To add this format into the github, just copy this format code from the github post file then past it in to the desile file.
+
 2. Rename your title:
 
 ```
 2017-09-08-博客的搭建与搜索框：.md
 ```
+3. Wait for one or two minutes to allow the content be seen in the website. 
+
+4. You could see the title name on the left side of the page. 
+
 3. References:
 <br>怎样写个人博客
 http://glennou.cn/2017/09/08/%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/

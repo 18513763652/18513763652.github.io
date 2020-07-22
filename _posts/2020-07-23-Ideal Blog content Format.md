@@ -59,7 +59,9 @@ size change
 <br>image
 <br>http://xianbai.me/learn-md/article/syntax/images.html
 ## 4.add the reference link at the end of the blog.
-
+note: utilize the Sublim internal spell check to fix the spelling issue.
+<br>Spell check in SublimeText
+<br>https://jj09.net/spell-check-in-sublimetext/#:~:text=Today%2C%20I%20found%20out%20that,you%20can%20correct%20the%20misspellings. 
 ## 5.Other issue fix.
 The reason why  can not utilize the markdown previw is that you need to set chrome as default browser.
 <br>Change Chrome to the Default Web Browser in Mac OS X
@@ -94,7 +96,7 @@ http://glennou.cn/2017/09/08/%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%AA%E4%BA%BA%E5%8D
 **1.issue collect:**
 
 1.Content display "#" hashtag remove solution
-2.能否处理一下每个博文中每个段落前的#号键位 #137
+<br>2.能否处理一下每个博文中每个段落前的#号键位 #137
 <br>https://github.com/qiubaiying/qiubaiying.github.io/issues/137
 <br>3. Copy and paste the this content into the original repository.
 

@@ -105,3 +105,10 @@ http://glennou.cn/2017/09/08/%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%AA%E4%BA%BA%E5%8D
 <br>3.according to the other user's feedback to solve your issue
 <br>4.Record this change into the original Blog repository.
 <br>5. check the changes in the Blog display website.
+## 8. Second and third times to enhance your Blog content 
+1.Utilize the Gitzip to download the certain file in the github then edit it in the sublime.
+<br>Gitzip
+<br>http://kinolien.github.io/gitzip/
+<br>2.Test the performance in the Chrome browser.
+<br>3.add this change in the github file.
+<br>4.check the content display in the website.

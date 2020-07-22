@@ -9,24 +9,23 @@ tags:
     博客
 ---
 # Ideal Blog content Format 
-
 ## 1. a BGM Music to accmopany you to finish the blog content reading;
-<br>1.Code Format:
+1.Code Format:
 ```
 <iframe width="20%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363580526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dyallas" title="dyalla" target="_blank" style="color: #cccccc; text-decoration: none;">dyalla</a> · <a href="https://soundcloud.com/dyallas/oh-my-life" title="Oh, My Life" target="_blank" style="color: #cccccc; text-decoration: none;">Oh, My Life</a></div>
 ```
-<br>2. Code exmple:
+2. Code exmple:
 ```
 <iframe width="20%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363580526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 ```
-<br>3. Look like in the browser:
+3. Look like in the browser:
 <iframe width="20%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363580526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <br>4.Reference Link:
 <br>Embedding a track or playlist on WordPress
 <br>https://help.soundcloud.com/hc/en-us/articles/115003565128-Embedding-a-track-or-playlist-on-WordPress
 
 ## 2. Video insert in the middle of the blog content; 
-<br>1.Format:
+1.Format:
 ```
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/Youtube video key" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
@@ -35,7 +34,7 @@ Youtube video key is the last few digits of the Youtube video link address.
 ```
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/_3Jy1wc8pOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
-<br>3. Looks like in the browser:
+3. Looks like in the browser:
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/_3Jy1wc8pOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>4. reference Link:
 <br>How to embed a Youtube Video in Markdown presentation

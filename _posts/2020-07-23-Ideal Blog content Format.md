@@ -11,8 +11,6 @@ tags:
 # Ideal Blog content Format 
 
 ## 1. a BGM Music to accmopany you to finish the blog content reading;
-
-
 <br>1.Code Format:
 
 ```

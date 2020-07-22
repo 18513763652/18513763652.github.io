@@ -98,12 +98,13 @@ To add this format into the github, just copy this format code from the github p
 http://glennou.cn/2017/09/08/%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 
 ## 7. Issue fix and Blog content enhancing:
-### 1.issue collect:
+1.issue collect:
 1.Content display "#" hashtage remove solution
 <br>2.能否处理一下每个博文中每个段落前的#号键位 #137
 <br>https://github.com/qiubaiying/qiubaiying.github.io/issues/137
 <br>3. Copy and paste the this content into the original resipotry.
-### 2.First go to the issue page of the original resipotry.
+
+2.First go to the issue page of the original resipotry.
 <br>1.Search for the similiar issue feedback from other user.
 <br>3.according to the other user's feedback to solve your issue
 <br>4.Record this change into the original Blog resipotry.

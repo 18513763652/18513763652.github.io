@@ -1,6 +1,6 @@
 ---
 layout:     post                    
-title:      Ideal Blog content Format
+title:      Design Ideal Blog content Format
 date:       2020-07-23             
 author:     Glenn                     
 header-img: img/post-bg-2015.jpg  

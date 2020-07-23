@@ -4,9 +4,9 @@ title:      Ideal Blog content Format
 date:       2020-07-23             
 author:     Glenn                     
 header-img: img/post-bg-2015.jpg  
-catalog: true                      
+catalog:    true                      
 tags:                              
-    博客
+    - 博客
 ---
 # Ideal Blog content Format 
 

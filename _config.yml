@@ -1,17 +1,17 @@
 # Site settings
 title: Glenn Blog
-SEOTitle: Glenn的博客 | Glenn Blog
+SEOTitle: Glenn | CS Blog
 header-img: img/post-bg-coffee.jpeg
-email: 2738328919@qq.com
+email: glenou@yahoo.com
 description: "Every failure is leading towards success."
-keyword: "Glen"
-url: "http://18513763652.github.io"          # your host, for absolute URL
+keyword: "Glenn"
+url: "http://glennou.cn/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "前端开发与个人思考"
+sidebar-about-description: "My Journey of Full Stack, Data Sciences, Computer Sciences Learning"
 sidebar-avatar: /img/glen.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/glen.png      # use absolute URL, seeing it's used in both 
 # SNS settings
 RSS: false
 
-github_username:    18513763652
+github_username:    GlennOu66304
 facebook_username:  18513763652
 jianshu_username:   7dadd960a1d7
 

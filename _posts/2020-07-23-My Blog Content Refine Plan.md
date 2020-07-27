@@ -29,10 +29,13 @@ My Journey of Full Stack, Data Sciences, Computer Sciences Learning
 5.link in the content is able to click.
 
 *Reference Link:*
-<br>博客搭建详细教程
+[博客搭建详细教程](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
 
-https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B
-
+Link add format:
+```
+[Text disply in the web](link of the content)
+```
+[认识与入门 Markdown](https://sspai.com/post/25137)
 ### 1. Cleaning the tag format to make it looks more tidy;
 
 **1. Utilize this format to add the items into the certain location.**

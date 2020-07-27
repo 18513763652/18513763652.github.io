@@ -10,6 +10,29 @@ tags:
 ---
 
 ## My Blog Content Refine Plan:
+
+## 2020.07.27 Blog Update
+### Refine all the content into the English.
+
+1.Title Below
+
+Full Stack, Data Sciences, Computer Sciences
+
+2.Text Below the Profile:
+
+My Journey of Full Stack, Data Sciences, Computer Sciences Learning
+
+3.Email will be Replaced to Yahoo Email: glenou@yahoo.com (Business inquiry Email)
+
+4.SEO (Text in the search bar text change): Ninja 
+
+5.link in the content is able to click.
+
+*Reference Link:*
+<br>博客搭建详细教程
+
+https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B
+
 ### 1. Cleaning the tag format to make it looks more tidy;
 
 **1. Utilize this format to add the items into the certain location.**

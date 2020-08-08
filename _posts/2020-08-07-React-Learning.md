@@ -10,12 +10,14 @@ tags:
 ---
 # React Learning Journey
 
-
 ### 2020.08.07 Code pen and React Coding Learnning
 
 #### src and dis in the fold of the Code pen export file.
 
+
 [1.What is the role of src and dist folders?](https://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
+
+
 
 [Exporting Pens](https://blog.codepen.io/documentation/exporting-pens/)
 
@@ -38,15 +40,20 @@ public/index.html is the page template;
 src/index.js is the JavaScript entry point.
 ```
 
+
 [How do I check the version of Node.js and npm installed on my machine?](https://www.quora.com/How-do-I-check-the-version-of-Node-js-and-npm-installed-on-my-machine)
+
 
 If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-app globally:
 [https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)
+
 
 [Creating an App](https://github.com/facebook/create-react-app)
 
 [Create a New React App]
 (https://reactjs.org/docs/create-a-new-react-app.html)
+
+
 
 4.Remove the below code in index.js within src and add"<h1>Hello, world!</h1>,"into the file
 ```
@@ -54,6 +61,7 @@ If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-
     <App />
   </React.StrictMode>,
 ```
+
 
 5.study note here:
 all react code will be chnaged in the index.js < src directory
@@ -65,6 +73,8 @@ CSS in codepen  ----> index.css at src in create my-app (fully copy)
 
 JS in Codepen----> indeµx.js at src in create my-app (add in the middle of  import scrpts  serviceworker )
 ```
+
+
 
 6.allow the JS running in the website;
 remove the no at "<script>You need to enable JavaScript to run this app.</script>" in index.hrml to run the app.
@@ -78,6 +88,8 @@ change the code into:
 7.allow the CSS running in the website:
 convert the SCSS to CSS:
 [SCSS to CSS](https://jsonformatter.org/scss-to-css)
+
+
 
 ### 2020.08.07 Tic tac tutorail running
 ```
@@ -211,52 +223,77 @@ function calculateWinner(squares) {
 ### study  note:
 1.Resource list
 
+
 2.Repeatthe code into the Codepen
+
 
 3.all content need to be refreshed
 
+
 4.Winner
+
 
 5.: and ;
 
+
 6.diffrerence checker:
 
+
 [Welcome to Diffchecker](https://www.diffchecker.com/)
+
 
 ## Learning Resource list Overview
 official document:
 
+
 [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+
 
 Tictoc game background introduction:
 
+
 [How to play Tic Tac Toe](https://www.youtube.com/watch?v=USEjXNCTvcc)
+
 
 [Learn React (Front end master)](https://frontendmasters.com/books/front-end-handbook/2018/learning/react.html)
 
+
 [complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)
+
 
 [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)#External_links)
 
+
 Bonus resource:
+
 
 Book:
 
+
 React book which I purchased from the Amazon
+
 
 React book in the Oreilly
 
+
 Video:
+
 
 Tutorail & Website:
 
+
 Udacity
+
 
 [egghead.io](https://egghead.io/)
 
+
 [Markdown Preview Documentation](https://facelessuser.github.io/MarkdownPreview/usage/)
+
 
 [The History of React and Flux with Dan Abramov](https://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)
 
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+
 

@@ -12,7 +12,7 @@ tags:
 
 ### 2020.08.07 Code pen and React Coding Learnning
 
-####1.What is the role of src and dist folders?
+#### 1.What is the role of src and dist folders?
 https://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders
 Exporting Pens
 https://blog.codepen.io/documentation/exporting-pens/

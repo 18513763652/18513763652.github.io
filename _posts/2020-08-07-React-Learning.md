@@ -24,7 +24,7 @@ tags:
 ```
 npm -version
 ```
-2. npx install the creat new app
+2.npx install the creat new app
 ```
 npx create-react-app my-app
 ```

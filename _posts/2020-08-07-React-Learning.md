@@ -15,10 +15,9 @@ tags:
 
 #### src and dis in the fold of the Code pen export file.
 
-[1.What is the role of src and dist folders?]
-(https://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
-[Exporting Pens]
-(https://blog.codepen.io/documentation/exporting-pens/)
+[1.What is the role of src and dist folders?](https://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
+
+[Exporting Pens](https://blog.codepen.io/documentation/exporting-pens/)
 
 #### 2.Put the code pen code into the "creat react -app" project
 1.npm version check:
@@ -41,8 +40,9 @@ src/index.js is the JavaScript entry point.
 
 [How do I check the version of Node.js and npm installed on my machine?](https://www.quora.com/How-do-I-check-the-version-of-Node-js-and-npm-installed-on-my-machine)
 
-[If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-app globally:]
-(https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)
+If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-app globally:
+[https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)
+
 [Creating an App](https://github.com/facebook/create-react-app)
 
 [Create a New React App]
@@ -215,7 +215,7 @@ function calculateWinner(squares) {
 
 3.all content need to be refreshed
 
-4. Winner
+4.Winner
 
 5.: and ;
 
@@ -253,6 +253,10 @@ Tutorail & Website:
 Udacity
 
 [egghead.io](https://egghead.io/)
+
 [Markdown Preview Documentation](https://facelessuser.github.io/MarkdownPreview/usage/)
+
 [The History of React and Flux with Dan Abramov](https://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+

@@ -29,7 +29,7 @@ Link add format in Markdown:
 ```
 [认识与入门 Markdown](https://sspai.com/post/25137)
 #### 2.Cleaning the tag format to make it looks more tidy;
-**1. Utilize this format to add the items into the certain location.**
+**1.Utilize this format to add the items into the certain location.**
 ```
 ---
 layout:     post
@@ -43,16 +43,15 @@ tags:
     - iOS
 ---
 ```
-**Reference link**
-
+**Reference link**  
 [博客结构tag标签实现](http://glennou.cn/2017/09/09/%E5%8D%9A%E5%AE%A2%E7%BB%93%E6%9E%84tag/)  
 **2.Note** 
 1.in the tags, Please choose the Chinese version "-" ，So the tags content will be like "-" + Chinese text or English text".  
-2.To change the tags' content  content in exiting tags, you need to remove all content include "-", then preview the change in github preview. then commit the change into github repository.  
-3. Wait for 1 minutes to refresh the page to check tag error fix.  
+2.To change the tags' content  content in exiting tags, you need to remove all content include "-", then preview the change in github preview. then commit the change into github repository.    
+3.Wait for 1 minutes to refresh the page to check tag error fix.    
 ***2020.08.09 Parent Tag and children Tag update:***  
 Put the layers tag, have the parent tag as the first one then add the children tag comes after.  
-1.Full stack tree
+Full stack tree
 ```
 - Full stack
 - Front end

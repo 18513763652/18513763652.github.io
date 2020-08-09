@@ -6,7 +6,7 @@ author:    Glenn                     
 header-img: img/post-bg-ios10.jpg  
 catalog: true                      
 tags:                              
-    - 博客
+    - Blog
 ---
 
 ## My Blog Content Refine Plan:

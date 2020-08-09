@@ -39,11 +39,8 @@ src/index.js is the JavaScript entry point.
 [How do I check the version of Node.js and npm installed on my machine?](https://www.quora.com/How-do-I-check-the-version-of-Node-js-and-npm-installed-on-my-machine)<br>
 If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-app globally:
 [https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)<br>
-[Creating an App](https://github.com/facebook/create-react-app)
-[Create a New React App]<br>
-(https://reactjs.org/docs/create-a-new-react-app.html)
-
-
+[Creating an App](https://github.com/facebook/create-react-app)<br>
+[Create a New React App](https://reactjs.org/docs/create-a-new-react-app.html)<br>
 
 4.Remove the below code in index.js within src and add"<h1>Hello, world!</h1>,"into the file
 ```

@@ -6,6 +6,8 @@ author:     Glenn
 header-img: img/post-bg-e2e-ux.jpg
 catalog: true
 tags:
+    - Full stack
+    - Front end
     - React
 ---
 # React Learning Journey

@@ -6,7 +6,7 @@ author:     Glenn                     
 header-img: img/post-bg-2015.jpg  
 catalog:    true                      
 tags:                              
-    - 博客
+    - Blog
 ---
 # Ideal Blog content Format 
 

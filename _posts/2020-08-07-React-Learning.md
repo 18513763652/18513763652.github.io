@@ -15,10 +15,7 @@ tags:
 #### src and dis in the fold of the Code pen export file.
 
 
-[1.What is the role of src and dist folders?](https://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)
-
-
-
+[1.What is the role of src and dist folders?](https://stackoverflow.com/questions/23730882/what-is-the-role-of-src-and-dist-folders)<br>
 [Exporting Pens](https://blog.codepen.io/documentation/exporting-pens/)
 
 #### 2.Put the code pen code into the "creat react -app" project
@@ -39,18 +36,11 @@ For the project to build, these files must exist with exact filenames:
 public/index.html is the page template;
 src/index.js is the JavaScript entry point.
 ```
-
-
-[How do I check the version of Node.js and npm installed on my machine?](https://www.quora.com/How-do-I-check-the-version-of-Node-js-and-npm-installed-on-my-machine)
-
-
+[How do I check the version of Node.js and npm installed on my machine?](https://www.quora.com/How-do-I-check-the-version-of-Node-js-and-npm-installed-on-my-machine)<br>
 If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-app globally:
-[https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)
-
-
+[https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f](https://gist.github.com/gaearon/4064d3c23a77c74a3614c498a8bb1c5f)<br>
 [Creating an App](https://github.com/facebook/create-react-app)
-
-[Create a New React App]
+[Create a New React App]<br>
 (https://reactjs.org/docs/create-a-new-react-app.html)
 
 
@@ -64,8 +54,8 @@ If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-
 
 
 5.study note here:
-all react code will be chnaged in the index.js < src directory
-all html code willl be changed in the index.html < public directory
+all react code will be chnaged in the index.js < src directory<br>
+all html code willl be changed in the index.html < public directory<br>
 ```
 Html in codepen ---> index.html at public in creat my-app(add in the middle of the body tag)
 
@@ -221,79 +211,35 @@ function calculateWinner(squares) {
 }
 ```
 ### study  note:
-1.Resource list
-
-
-2.Repeatthe code into the Codepen
-
-
-3.all content need to be refreshed
-
-
-4.Winner
-
-
-5.: and ;
-
-
-6.diffrerence checker:
-
-
-[Welcome to Diffchecker](https://www.diffchecker.com/)
+1.Resource list<br>
+2.Repeatthe code into the Codepen<br>
+3.all content need to be refreshed<br>
+4.Winner<br>
+5.: and ;<br>
+6.diffrerence checker:<br>
+[Welcome to Diffchecker](https://www.diffchecker.com/)<br>
 
 
 ## Learning Resource list Overview
-official document:
+official document:<br>
+[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#completing-the-game)<br>
+Tictoc game background introduction:<br>
+[How to play Tic Tac Toe](https://www.youtube.com/watch?v=USEjXNCTvcc)<br>
+[Learn React (Front end master)](https://frontendmasters.com/books/front-end-handbook/2018/learning/react.html)<br>
+[complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)<br>
+[React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)#External_links)<br>
+Bonus resource:<br>
 
+Book:<br>
+React book which I purchased from the Amazon<br>
+React book in the Oreilly<br>
 
-[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#completing-the-game)
+Video:<br><br>
 
+Tutorail & Website:<br>
 
-Tictoc game background introduction:
-
-
-[How to play Tic Tac Toe](https://www.youtube.com/watch?v=USEjXNCTvcc)
-
-
-[Learn React (Front end master)](https://frontendmasters.com/books/front-end-handbook/2018/learning/react.html)
-
-
-[complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)
-
-
-[React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)#External_links)
-
-
-Bonus resource:
-
-
-Book:
-
-
-React book which I purchased from the Amazon
-
-
-React book in the Oreilly
-
-
-Video:
-
-
-Tutorail & Website:
-
-
-Udacity
-
-
-[egghead.io](https://egghead.io/)
-
-
-[Markdown Preview Documentation](https://facelessuser.github.io/MarkdownPreview/usage/)
-
-
-[The History of React and Flux with Dan Abramov](https://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)
-
-
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-
-
+Udacity<br>
+[egghead.io](https://egghead.io/)<br>
+[Markdown Preview Documentation](https://facelessuser.github.io/MarkdownPreview/usage/)<br>
+[The History of React and Flux with Dan Abramov](https://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)<br>
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)<br>

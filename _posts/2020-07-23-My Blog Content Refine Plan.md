@@ -11,12 +11,11 @@ tags:
 
 ## My Blog Content Refine Plan:
 
-## 2020.07.27 Blog Update
-### Refine all the content into the English.
+### 2020.07.27 Blog Update
+#### 1.Refine all the content into the English.
 
 1.Title Below<br>
 Full Stack, Data Sciences, Computer Sciences<br>
-
 2.Text Below the Profile:<br>
 My Journey of Full Stack, Data Sciences, Computer Sciences Learning<br>
 3.Email will be Replaced to Yahoo Email: glenou@yahoo.com (Business inquiry Email)<br>
@@ -29,7 +28,7 @@ Link add format in Markdown:
 [Text display in the web](link of the content)
 ```
 [认识与入门 Markdown](https://sspai.com/post/25137)
-### 1. Cleaning the tag format to make it looks more tidy;
+#### 2.Cleaning the tag format to make it looks more tidy;
 **1. Utilize this format to add the items into the certain location.**
 ```
 ---
@@ -53,7 +52,7 @@ tags:
 3. Wait for 1 minutes to refresh the page to check tag error fix.  
 ***2020.08.09 Parent Tag and children Tag update:***  
 Put the layers tag, have the parent tag as the first one then add the children tag comes after.  
-1.Full stack tree 
+1.Full stack tree
 ```
 - Full stack
 - Front end
@@ -66,9 +65,9 @@ Put the layers tag, have the parent tag as the first one then add the children t
 - Front end
 ```
 Note: - is the Chinese version -;   
-### 2. Github page link fixing;
+#### 3.Github page link fixing;
 
-### 3. Blog article title more tidy;(Markdown and YAML text Grammar)
+#### 4.Blog article title more tidy;(Markdown and YAML text Grammar)
 
 1.YAML text Grammar:  
 You need to make sure that the title's digit is more than 9 digits.and change the title in the Ymal file，If you can not see the text align show in the website
@@ -84,8 +83,7 @@ catalog: true
 tags:
     - iOS
 ---
-```
-
+```  
 2.Markdown Grammar:  
 How to fix the extra space ib the blog content?  
 You jsut need to add "<br>" at the end of the sentence line or leave two space at the end of the sentence.  
@@ -107,15 +105,10 @@ Reference Link:
 8.注意：代码的选中及使用:  
 ``用mac上的键盘上的横排数字键实现（位置），打出这个，然后全选，向右缩进和tab键配合使用。  
 9.[cousera资源](https://www.coursera.org/learn/reproducible-research/lecture/5NzHN/r-markdown)   
-10.syntax [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
-
-### 4.Back ground picture replace;
-
-### 5.Refine the Comment and information Analysis tool;
-
-### 6.Blog content Link can not display;
-
-### 7. Blog Content Preview fix;
+10.syntax [Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)  
+#### 5.Back ground picture replace;  
+#### 6.Refine the Comment and information Analysis tool;  
+#### 7.Blog content Link can not display;  
+#### 8.Blog Content Preview fix;
 Hint: To utilize the subtitle
-
-### 8. To be continued......
+#### 9.To be continued......

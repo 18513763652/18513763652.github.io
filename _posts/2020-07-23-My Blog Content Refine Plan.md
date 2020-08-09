@@ -74,7 +74,7 @@ tags:
 ---
 ```
 2.How to fix the extra space ib the blog content?<br>
-You jsut need to add <br> at the end of the sentence line or leave two space at the end of the sentence.  
+You jsut need to add "<br>" at the end of the sentence line or leave two space at the end of the sentence.  
 ```
 First line with two spaces after.  
 And the next line.

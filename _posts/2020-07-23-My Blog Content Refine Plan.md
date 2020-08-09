@@ -22,15 +22,14 @@ My Journey of Full Stack, Data Sciences, Computer Sciences Learning<br>
 3.Email will be Replaced to Yahoo Email: glenou@yahoo.com (Business inquiry Email)<br>
 4.SEO (Text in the search bar text change): Ninja<br>
 5.link in the content is able to click.<br>
-*Reference Link:*
-<br>Blog From[博客搭建详细教程](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)
-<br>Link add format in Markdown:
+*Reference Link:*  
+[博客搭建详细教程](https://github.com/qiubaiying/qiubaiying.github.io/wiki/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B)  
+Link add format in Markdown:  
 ```
 [Text display in the web](link of the content)
 ```
-From[认识与入门 Markdown](https://sspai.com/post/25137)
+[认识与入门 Markdown](https://sspai.com/post/25137)
 ### 1. Cleaning the tag format to make it looks more tidy;
-
 **1. Utilize this format to add the items into the certain location.**
 ```
 ---
@@ -47,14 +46,26 @@ tags:
 ```
 **Reference link**
 
-博客结构tag标签实现
-<br>http://glennou.cn/2017/09/09/%E5%8D%9A%E5%AE%A2%E7%BB%93%E6%9E%84tag/
-
-**2.Note**
-<br>1.in the tags, Please choose the Chinese version "-" ，So the tags content will be like "-" + Chinese text or English text"
-<br>2.To change the tags' content  content in exiting tags, you need to remove all content include "-", then preview the change in github preview. then commit the change into github repository.
-<br>3. Wait for 1 minutes to refresh the page to check tag error fix.
-
+[博客结构tag标签实现](http://glennou.cn/2017/09/09/%E5%8D%9A%E5%AE%A2%E7%BB%93%E6%9E%84tag/)  
+**2.Note** 
+1.in the tags, Please choose the Chinese version "-" ，So the tags content will be like "-" + Chinese text or English text".  
+2.To change the tags' content  content in exiting tags, you need to remove all content include "-", then preview the change in github preview. then commit the change into github repository.  
+3. Wait for 1 minutes to refresh the page to check tag error fix.  
+***2020.08.09 Parent Tag and children Tag update:***  
+Put the layers tag, have the parent tag as the first one then add the children tag comes after.  
+1.Full stack tree 
+```
+- Full stack
+- Front end
+- React
+- Wechat 
+- 
+```
+```
+- Full stack
+- Front end
+```
+Note: - is the Chinese version -;   
 ### 2. Github page link fixing;
 
 ### 3. Blog article title more tidy;

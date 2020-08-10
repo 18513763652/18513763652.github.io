@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Creat a Wevbsite with a Bootstrap
+title:      Creat a Website with a Bootstrap
 date:       2020-08-10
 author:     Glenn
 header-img: img/Creat a Wevbsite with a Bootstrap.jpeg

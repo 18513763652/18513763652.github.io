@@ -11,11 +11,11 @@ tags:
     - Bootstrap
 ---
 # Creat a Wevbsite with a Bootstrap
-## 1.Watch the Udacity Front end beginner level course [编写你的作品集网页](https://classroom.udacity.com/nanodegrees/nd001-cn-basic/parts/dc2b8226-5581-4035-ae50-f18ee88fcb85)  
-## 2.Go to Official website:[Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)to play around with example.  
-## 3.download the example code from [Examples](https://getbootstrap.com/docs/4.5/examples/)  
-## 4.Read the [documentation](https://getbootstrap.com/docs/4.5/getting-started/contents/)to play Bootstrap  
-## ***5.Bonus Play with Bootstrap:***  
+### 1.Watch the Udacity Front end beginner level course [编写你的作品集网页](https://classroom.udacity.com/nanodegrees/nd001-cn-basic/parts/dc2b8226-5581-4035-ae50-f18ee88fcb85)  
+### 2.Go to Official website:[Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)to play around with example.  
+### 3.download the example code from [Examples](https://getbootstrap.com/docs/4.5/examples/)  
+### 4.Read the [documentation](https://getbootstrap.com/docs/4.5/getting-started/contents/)to play Bootstrap  
+### ***5.Bonus Play with Bootstrap:***  
 1.add the bootstrap as link to the project:  
 ```
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">

@@ -10,7 +10,7 @@ tags:
     - Front end
     - Bootstrap
 ---
-# Creat a Wevbsite with a Bootstrap
+# Creat a Website with a Bootstrap
 ### 1.Watch the Udacity Front end beginner level course [编写你的作品集网页](https://classroom.udacity.com/nanodegrees/nd001-cn-basic/parts/dc2b8226-5581-4035-ae50-f18ee88fcb85)  
 ### 2.Go to Official website:[Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)to play around with example.  
 ### 3.download the example code from [Examples](https://getbootstrap.com/docs/4.5/examples/)  

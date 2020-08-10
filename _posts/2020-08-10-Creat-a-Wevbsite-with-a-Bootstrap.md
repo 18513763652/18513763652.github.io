@@ -28,10 +28,10 @@ tags:
 <button type="button" class="btn btn-primary">Primary</button>
 ```
 [Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)  
-## 6.Resource 
+4.Resource   
 code in github[Bootstrap in 5](https://github.com/blondiebits/code-in-5/tree/master/Bootstrap%20in%205)  
 video in Youtube[Learn Bootstrap in 5 minutes | Responsive Website Tutorial | Code in 5](https://www.youtube.com/watch?v=yalxT0PEx8c)  
-Resource list   
+## 6.Resource list   
 1.Udacity Front end beginner level course [5. 编写你的作品集网页](https://classroom.udacity.com/nanodegrees/nd001-cn-basic/parts/dc2b8226-5581-4035-ae50-f18ee88fcb85)  
 2.W3schools:[Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/default.asp)  
 3.MDN:[Bootstrap](https://developer.mozilla.org/en-US/docs/Glossary/Bootstrap)    

@@ -72,6 +72,7 @@ in the index.html.
 ```
 <script  src="js/script.js"></script>   
 ```
+
 ##### 4.apply the jQuery grammr into the code
 ```
 $(document).ready(function(){

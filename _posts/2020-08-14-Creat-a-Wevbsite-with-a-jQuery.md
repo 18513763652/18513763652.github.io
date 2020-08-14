@@ -47,12 +47,12 @@ CloudFlare is a great CDN and also very popular too. It also has jQuery CDN whic
 </head>
 ```
 
-you could check the references below:
-YOGIHOSTING:[What is jQuery CDN and how you can use it in your website](https://www.yogihosting.com/jquery-cdn/)  
-educative.io:[How to add jQuery from a CDN?](https://www.educative.io/edpresso/how-to-add-jquery-from-a-cdn) 
-W3School:[jQuery CDN](https://www.w3schools.com/jquery/jquery_get_started.asp) 
+you could check the references below:  
+YOGIHOSTING:[What is jQuery CDN and how you can use it in your website](https://www.yogihosting.com/jquery-cdn/)   
+educative.io:[How to add jQuery from a CDN?](https://www.educative.io/edpresso/how-to-add-jquery-from-a-cdn)  
+W3School:[jQuery CDN](https://www.w3schools.com/jquery/jquery_get_started.asp)  
 Google Hosted Libraries:[jQuery](https://developers.google.com/speed/libraries#jquery)  
-cdnjs:[jqueryJavaScript library for DOM operations](https://cdnjs.com/libraries/jquery/3.3.1)
+cdnjs:[jqueryJavaScript library for DOM operations](https://cdnjs.com/libraries/jquery/3.3.1)  
 official documenttation[Using jQuery with a CDN](https://jquery.com/download/)  
 [jQuery CDN – Latest Stable Versions](https://code.jquery.com/)  
 

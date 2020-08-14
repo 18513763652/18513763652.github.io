@@ -15,9 +15,9 @@ tags:
 ###  Javascript Lerninning:
 
 #### Learning Journey:
-1.Download [GlennOu66304/frontend-nanodegree-resume](https://github.com/GlennOu66304/frontend-nanodegree-resume)
+##### 1.Download [GlennOu66304/frontend-nanodegree-resume](https://github.com/GlennOu66304/frontend-nanodegree-resume)
 
-**2.put the jQuery into the code file project:**   
+##### 2.put the jQuery into the code file project: 
 
 1.put the physical file into the code project
 You need to single click the file and choose " Save link as " to download the file in the local, then use the sublime editor to open it
@@ -58,7 +58,7 @@ official documenttation[Using jQuery with a CDN](https://jquery.com/download/)
 
 
 
-**3.Play around with the jQuery:**   
+##### 3.Play around with the jQuery: 
 1.First download the code project from the CodePen. if you have question about this process, please go to [2020.08.07 Code pen and React Coding Learnning](http://glennou.cn/2020/08/07/React-Learning/)to get instructions.  
 2. First remove the "src fold" and disc fold,and add "js" fold and "css" fold into the subfold under the main fold "getting-started-with-jquery". at the same time, you need to put the style.css file into css and put "script.js" into
 js fold.   
@@ -72,7 +72,7 @@ in the index.html.
 ```
 <script  src="js/script.js"></script>   
 ```
-**4.apply the jQuery grammr into the code"**
+##### 4.apply the jQuery grammr into the code
 ```
 $(document).ready(function(){
   
@@ -89,7 +89,7 @@ MDN:[jQuery](https://developer.mozilla.org/en-US/docs/Glossary/jQuery)
 Resources list:  
 1.video:[https://api.jquery.com/](https://www.youtube.com/watch?v=KhtEmR2A1Fw)  
 2.Code:[Getting started with jQuery](https://codepen.io/beaucarnes/pen/mwGZre)
-#### 5.Resource list: 
+##### 5.Resource list: 
 [Udacity Javascript Begin level Course](https://classroom.udacity.com/courses/ud245)  
 [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)  
 OFFICIAL Documentation:[jQuery](https://jquery.com/download/)

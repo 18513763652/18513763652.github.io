@@ -60,15 +60,16 @@ official documenttation[Using jQuery with a CDN](https://jquery.com/download/)
 
 ##### 3.Play around with the jQuery: 
 1.First download the code project from the CodePen. if you have question about this process, please go to [2020.08.07 Code pen and React Coding Learnning](http://glennou.cn/2020/08/07/React-Learning/)to get instructions.  
-2. First remove the "src fold" and disc fold,and add "js" fold and "css" fold into the subfold under the main fold "getting-started-with-jquery". at the same time, you need to put the style.css file into css and put "script.js" into
-js fold.   
+2. First remove the "src fold" and disc fold,and add "js" fold and "css" fold into the subfold under the main fold "getting-started-with-jquery". at the same time, you need to put the style.css file into css and put "script.js" into js fold.   
 3. change the css code into 
+
 ```
 <link rel="stylesheet" href="css/style.css">
 ```
 in the index.html.  
 
 4.change the js code to 
+
 ```
 <script  src="js/script.js"></script>   
 ```

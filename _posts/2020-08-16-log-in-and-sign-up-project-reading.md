@@ -13,8 +13,8 @@ tags:
   
 ---
 # 1.login and sign up project reading:
-## 2.Note:  
-1.overview;  
+## 1. The process to read a code  
+1.overview; 
 2.add the understanding into the under the code,markdown;  
 ```
 1.copy the code int to the editor
@@ -27,18 +27,18 @@ b.then go to developer tool to click this postion then it will take you to the p
 c. or just ctr + f then type the element into the search bar;
 ```
 3.connect them together to read the code;  
-4.try to involve the knowledge points in the MDN;
-5.utilize the developer tool help you to understand the project file;
-6.organize the detaileds code rading into the mardown files;
-7. put a project file code and reading file into the github file;
-8. organize the key thoughts into the blog and publish to the online;
-6.type all the code by hands again.
+4.try to involve the knowledge points in the MDN;  
+5.utilize the developer tool help you to understand the project file;  
+6.organize the detaileds code rading into the mardown files;  
+7.put a project file code and reading file into the github read.mefile;  
+8.organize the key thoughts into the blog and publish it online;  
+9.type all the code by hands again.  
 
-## 3.resources:
+## 2.resources:
 code in github:[log-in-sign-uppure-css12](https://github.com/GlennOu66304/Full-stack-project-reading/tree/master/log-in-sign-uppure-css12)  
 code in the code pen
 [Log In / Sign Up - pure css - #12](https://codepen.io/ig_design/pen/KKVQpVP) 
-video:    
+video:      
 [Learn How To Read Code](https://www.youtube.com/watch?v=KnuYHTIIt88)  
 Tutorial:  
 [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)  

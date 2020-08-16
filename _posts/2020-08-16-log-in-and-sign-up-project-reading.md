@@ -31,7 +31,7 @@ tags:
 ```
 <!DOCTYPE html>
 ```
-2. html language define:
+2.html language define:
 ```
 <html lang="en" >
 ```
@@ -39,11 +39,11 @@ tags:
 1.unicde define 
 ```
 <head>
-  <meta charset="UTF-8">  
+<meta charset="UTF-8">  
 ```
 2.title display in the url
 ```
-  <title>CodePen - Log In / Sign Up - pure css - #12</title> 
+<title>CodePen - Log In / Sign Up - pure css - #12</title> 
 ```
 3.bootstrap cdn files on the cdnjs to link the bootstrap frameqork,you could refer the link in resources:[twitter-bootstrap The most popular front-end framework for developing responsive, mobile first projects on the web.](https://cdnjs.com/libraries/twitter-bootstrap)  
 ```

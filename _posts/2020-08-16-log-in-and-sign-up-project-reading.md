@@ -29,12 +29,14 @@ c. or just ctr + f then type the element into the search bar;
 3.connect them together to read the code;  
 4.try to involve the knowledge points in the MDN;  
 5.utilize the developer tool help you to understand the project file;  
-6.organize the detaileds code rading into the mardown files;  
-7.put a project file code and reading file into the github read.mefile;  
+6.organize the detaileds code reading into the mardown files;  
+7.put a project file code and reading file into the github code reading fold;  
 8.organize the key thoughts into the blog and publish it online;  
 9.type all the code by hands again.  
 
 ## 2.resources:
+html code reading:[html code reading](https://github.com/GlennOu66304/Full-stack-project-reading/blob/master/log-in-sign-uppure-css12/code%20reading/html%20code%20reading.md)  
+css code reading:[css reading.md](https://github.com/GlennOu66304/Full-stack-project-reading/blob/master/log-in-sign-uppure-css12/code%20reading/css%20reading.md)  
 code in github:[log-in-sign-uppure-css12](https://github.com/GlennOu66304/Full-stack-project-reading/tree/master/log-in-sign-uppure-css12)  
 code in the code pen
 [Log In / Sign Up - pure css - #12](https://codepen.io/ig_design/pen/KKVQpVP) 

@@ -8,7 +8,7 @@ catalog: true
 tags:
     - Full stack
     - Front end
-    - jQuery
+    - bootstrap
     - code reading
   
 ---

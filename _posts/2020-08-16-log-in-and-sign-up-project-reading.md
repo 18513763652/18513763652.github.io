@@ -39,7 +39,7 @@ html code reading:[html code reading](https://github.com/GlennOu66304/Full-stack
 css code reading:[css reading.md](https://github.com/GlennOu66304/Full-stack-project-reading/blob/master/log-in-sign-uppure-css12/code%20reading/css%20reading.md)  
 code in github:[log-in-sign-uppure-css12](https://github.com/GlennOu66304/Full-stack-project-reading/tree/master/log-in-sign-uppure-css12)  
 code in the code pen
-[Log In / Sign Up - pure css - #12](https://codepen.io/ig_design/pen/KKVQpVP) 
+[Log In / Sign Up - pure css - #12](https://codepen.io/ig_design/pen/KKVQpVP)  
 video:      
 [Learn How To Read Code](https://www.youtube.com/watch?v=KnuYHTIIt88)  
 Tutorial:  

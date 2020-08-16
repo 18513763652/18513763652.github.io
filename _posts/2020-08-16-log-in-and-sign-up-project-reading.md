@@ -13,8 +13,8 @@ tags:
   
 ---
 # 1.login and sign up project reading:
-## 1. The process to read a code  
-1.overview; 
+## 1. The process to read the code  
+1.overview;   
 2.add the understanding into the under the code,markdown;  
 ```
 1.copy the code int to the editor

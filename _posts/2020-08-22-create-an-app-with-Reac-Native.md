@@ -13,22 +13,20 @@ tags:
 ## Run the online React Native project in the browser:  
 **1.Register a Expo account via the [expo](https://expo.io/dashboard/glennou/settings/services)**    
 **2.download the app on the iOS device and log in with the account name and the password.**  
-**3.put a project in the expo account and test it in the mobile device:**  
-1. save a online example in the web veision expo site;  
-2. and check this project in the expo app on the iOS device by account section or, device id, QR section was not allowed any more, check the explaintion article here[Upcoming Limitations to iOS Expo Client](https://blog.expo.io/upcoming-limitations-to-ios-expo-client-8076d01aee1a)  
-3. You might need to connect the VPN to do load the project on the iOS device fully;  
+**3.put a project in the expo account and test it in the mobile device:**   
+1.save a online example in the web veision expo site;  
+2.and check this project in the expo app on the iOS device by account section or, device id, QR section was not allowed any more, check the explaintion article here[Upcoming Limitations to iOS Expo Client](https://blog.expo.io/upcoming-limitations-to-ios-expo-client-8076d01aee1a)  
+3.You might need to connect the VPN to do load the project on the iOS device fully;  
 example project [tenacious waffles](https://snack.expo.io/@glennou/f5055e)  
 introduction using of the expo[Introduction to Expo](https://docs.expo.io/)  
-4. You could use shaking the moblie phone or use three figures to long press on the screen to go back to the home page.   
-
+4.You could use shaking the moblie phone or use three figures to long press on the screen to go back to the home page.   
 **4.From the introduction page to play the React Native project:**  
 project link here:[Hello World](https://snack.expo.io/@glennou/hello-world?session_id=snack-session-A4KQHYa0G&preview=true&platform=web&iframeId=9lhyovgwck&supportedPlatforms=ios,android,web&name=Hello%20World&description=Example%20usage&waitForData=true)  
 React Native Documentation[Introduction](https://reactnative.dev/docs/getting-started)  
-
 ## Run the local React Native project on the iOS and Android:  
 **5.Setting up the development environment**   
 1. checking mmy mac is 32 bit or 64 bit, inter i5 is 64 bit;  
-[Determining If Your Computer is 32-Bit or 64-Bit](https://www.chiefarchitect.com/support/article/KB-01230/determining-if-your-computer-is-32-bit-or-64-bit.html)  
+[Determining If Your Computer is 32-Bit or 64-Bit](https://www.chiefarchitect.com/support/article/KB-01230/determining-if-your-computer-is-32-bit-or-64-bit.html) 
 2. then downloda the Node 12 LTS verision;  
 [Download the Node.js source code or a pre-built installer for your platform, and start developing today.](https://nodejs.org/en/download/)  
 3. npm to install the Expo CLI command line utility:  
@@ -54,8 +52,7 @@ npm start # you can also use: expo start
 [Setting up the development environment](https://reactnative.dev/docs/environment-setup)  
 Useful link here:  
 [More Resources](https://reactnative.dev/docs/more-resources)  
-[React Nanodegree Notes & Projects by James Priest](https://james-priest.github.io/udacity-nanodegree-react/index.html)
-
+[React Nanodegree Notes & Projects by James Priest](https://james-priest.github.io/udacity-nanodegree-react/index.html)  
 [Build an iOS App with React Native and Publish it to the App Store](https://developer.okta.com/blog/2019/04/05/react-native-ios-app-store)  
 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)  
 ## Resource list:  

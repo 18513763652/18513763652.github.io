@@ -56,7 +56,7 @@ Useful link here:
 [Build an iOS App with React Native and Publish it to the App Store](https://developer.okta.com/blog/2019/04/05/react-native-ios-app-store)  
 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)  
 ## Resource list:  
-1.React native docmentation;  
+1.React native documentation;  
 2.Udacity course;  
 3.Wechat note;    
 4.Udemy  

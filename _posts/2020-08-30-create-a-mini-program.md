@@ -34,7 +34,7 @@ App ID find:[App ID](https://developers.weixin.qq.com/miniprogram/dev/framework/
 3.Download the project from Github  
 4.import the project into the miniprogram editor.  
 5.download the Hobrew:[Homebrew install erro](https://github.com/GlennOu66304/CS-RESOURS-CENTER/blob/master/C%20language/Homebrew%20install%20erro.md)and [Git](https://git-scm.com/download/mac) to edit it.     
-6. Link your download git with the old version of Git:  
+6.Link your download git with the old version of Git:  
 ```
 zt@ztdeMacBook-Air ~ % rm '/usr/local/bin/git' 
 zt@ztdeMacBook-Air ~ % brew link git 
@@ -43,10 +43,8 @@ Error: Could not symlink bin/git-cvsserver
 Target /usr/local/bin/git-cvsserver
 already exists. You may want to remove it:
   rm '/usr/local/bin/git-cvsserver'
-
 To force the link and overwrite all conflicting files:
   brew link --overwrite git
-
 To list all files that would be deleted:
   brew link --overwrite --dry-run git
 zt@ztdeMacBook-Air ~ % brew link --overwrite git 
@@ -55,7 +53,6 @@ zt@ztdeMacBook-Air ~ % brew link git
 Warning: Already linked: /usr/local/Cellar/git/2.28.0
 To relink:
   brew unlink git && brew link git
-
 ```
 7.Use git to check the branch code in the repository:
 

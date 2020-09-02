@@ -52,7 +52,7 @@ If you use npm 5.1 or earlier, you can't use npx. Instead, install create-react-
 ```
 
 
-5.study note here:
+5.study note here:  
 all react code will be chnaged in the index.js < src directory<br>
 all html code willl be changed in the index.html < public directory<br>
 ```
@@ -67,8 +67,7 @@ JS in Codepen----> indeµx.js at src in create my-app (add in the middle of  imp
 
 6.allow the JS running in the website;
 remove the no at "<script>You need to enable JavaScript to run this app.</script>" in index.hrml to run the app.
-[React Error: Target Container is not a DOM Element]
-(https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element/35234369)
+[React Error: Target Container is not a DOM Element](https://stackoverflow.com/questions/26416334/react-error-target-container-is-not-a-dom-element/35234369)
 change the code into:
 ```
  <div id="app"></div>
@@ -76,10 +75,13 @@ change the code into:
 ```
 7.allow the CSS running in the website:
 convert the SCSS to CSS:
-[SCSS to CSS](https://jsonformatter.org/scss-to-css)
-
-
-
+[SCSS to CSS](https://jsonformatter.org/scss-to-css)  
+8.run the code in the browser:  
+first you need to go to the project directory via cd then you need to use "npm start" to begin the project .
+```
+cd my-app
+npm start
+```  
 ### 2020.08.07 Tic tac tutorail running
 ```
 function Square(props) {
@@ -227,18 +229,15 @@ Tictoc game background introduction:<br>
 [Learn React (Front end master)](https://frontendmasters.com/books/front-end-handbook/2018/learning/react.html)<br>
 [complete Intro to React, v5](https://frontendmasters.com/courses/complete-react-v5/)<br>
 [React (web framework)](https://en.wikipedia.org/wiki/React_(web_framework)#External_links)<br>
-Bonus resource:<br>
+Bonus resource:  
+Book:  
+React book which I purchased from the Amazon  
+React book in the Oreilly  
 
-Book:<br>
-React book which I purchased from the Amazon<br>
-React book in the Oreilly<br>
-
-Video:<br><br>
-
-Tutorail & Website:<br>
-
+Video:  
+Tutorail & Website:  
 Udacity<br>
-[egghead.io](https://egghead.io/)<br>
+[egghead.io](https://egghead.io/)  
 [Markdown Preview Documentation](https://facelessuser.github.io/MarkdownPreview/usage/)<br>
 [The History of React and Flux with Dan Abramov](https://threedevsandamaybe.com/the-history-of-react-and-flux-with-dan-abramov/)<br>
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)<br>

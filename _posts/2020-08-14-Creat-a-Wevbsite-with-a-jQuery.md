@@ -105,5 +105,5 @@ Front End master JS course
 MDN documentation  
 W3School Tutorial  
 FreecodeCamp  
-Google JS course:[Learning program with Javascript](https://openclassrooms.com/en/courses/5664271-learn-programming-by-practicing-javascript]  
+Google JS course:[Learning program with Javascript](https://openclassrooms.com/en/courses/5664271-learn-programming-by-practicing-javascript)  
 JavaScript30:[JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)

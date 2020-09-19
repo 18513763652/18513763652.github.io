@@ -14,13 +14,12 @@ tags:
 ### How to connect the git, github, and Visula studio together.  
 1.Creat a github project;  
 2.Commad pale (from the Visualstudio setting or command + option + p shortcut );  
-3.Git clone the github project into the local;  
-4.Git clone and paste the github project url into the bar area;  
-5.Then you need to select a place to install your project;  
-6.Creat a [readme.md file] new file and put the code content into the code files and save it ;  
-7.Go to the fork tab, add the commit message and click the select the tick logo to finish the tick;  
-8.go to the refresh logo in the bottom and click that to push the change into the github.  
-9.To allowe the password issue, just type the mac computer password to authorise it happen.  
+3.Git clone the github project into the local: Git clone and paste the github project url into the bar area;  
+4.Then you need to select a place to install your project;  
+5.Creat a [readme.md file] new file and put the code content into the code files and save it ;  
+6.Go to the fork tab, add the commit message and click the select the tick logo to finish the tick;  
+7.go to the refresh logo in the bottom and click that to push the change into the github.  
+8.To allow the password issue, just type the mac computer password to authorise it happen.  
 
 Reference link:  
 instruction video: [Using Git with VS Code and Github](https://www.youtube.com/watch?v=9cMWR-EGFuY)  

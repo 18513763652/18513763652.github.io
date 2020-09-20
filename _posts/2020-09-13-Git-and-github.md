@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      git and git  github
+title:      connect the git, github, and Visula studio together.
 date:       2020-09-13
 author:     Glenn
 header-img: img/Git.png
@@ -9,7 +9,7 @@ tags:
     - Full stack
     - Tools
 ---
-## Git and git  github
+## connect the git, github, and Visula studio together.
 
 ### 1.How to connect the git, github, and Visula studio together.  
 1.Creat a github project;  

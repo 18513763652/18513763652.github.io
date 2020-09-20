@@ -50,7 +50,9 @@ You could find this adress on the router's back or front;
 For example:  
 192.168.1.1 this address, I found it on the router's back , if I type it in the browser's search bar,it will become a router's website, then I will be able to locate the Wifi internet setting to change the 5G channel.You will find the detailed information on the router to fill the required informaton to login and change the information.  
 http://192.168.1.1/  
-[https://discussions.apple.com/thread/250703297](https://www.youtube.com/watch?v=l40XQw4-TMw)
+[MacBook Pro not connecting to 5Ghz wifi signals at 36, 40, 44 and 48 Channels](https://discussions.apple.com/thread/250703297)   
+[Mac doesn't detect 5 GHz Wifi network](https://www.youtube.com/watch?v=l40XQw4-TMw)  
+
 ### Learning resources:  
 Udacity:[Github version contral](https://classroom.udacity.com/courses/ud123)  
 Github:[Git in the datasciences](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/3.github_Using/Folder%20and%20file.md)  
